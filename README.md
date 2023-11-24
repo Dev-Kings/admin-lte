@@ -7,8 +7,8 @@ This project is made in Laravel version 10. In this project i used a Admin LTE w
 ## Installation & usage
 - For Install you have to clone this repo or you can fire this command as well.
 
-```php
-
+```
+git clone https://github.com/Dev-Kings/admin-lte.git
 ```
 
 - Go into folder
