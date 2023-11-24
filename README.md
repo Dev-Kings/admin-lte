@@ -1,4 +1,4 @@
-<p align="center"><a href="#" target="_blank"><img src="https://adminlte.io/wp-content/uploads/2021/03/logo.png" width="400" alt="Admin LTE Logo"></a></p>
+<p align="center"><a href="https://github.com/Dev-Kings/admin-lte" target="_blank"><img src="https://adminlte.io/wp-content/uploads/2021/03/logo.png" width="400" alt="Admin LTE Logo"></a></p>
 
 ## About This Repo
 
